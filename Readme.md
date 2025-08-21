@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="assets/MR Intro.gif" alt="" width=500>
+  <img src="assets/MR Intro.gif" alt="" width=250>
 <p/>
 
 - hello my name is "Mohamed Ragab (MR)" 👋🏻
@@ -9,7 +9,7 @@
 
   
   <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm44Z2RhcDZ5N244aHhtZDZjdW9zajM2NHg3ZDJlMWJrZjFpdzJkMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="" width=400>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm44Z2RhcDZ5N244aHhtZDZjdW9zajM2NHg3ZDJlMWJrZjFpdzJkMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="" width=200>
 
 
   <img src="assets/Godot.png">
