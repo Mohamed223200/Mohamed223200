@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="assets/MR Intro.gif" alt="" width=250>
+  <img src="assets/MR_Intro.gif" alt="" width=250>
 <p/>
 
 - hello my name is "Mohamed Ragab (MR)" 👋🏻
